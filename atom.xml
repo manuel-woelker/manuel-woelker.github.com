@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Continuous Development]]></title>
   <link href="http://manuel-woelker.github.com/atom.xml" rel="self"/>
   <link href="http://manuel-woelker.github.com/"/>
-  <updated>2011-12-23T17:04:12+01:00</updated>
+  <updated>2011-12-23T20:10:09+01:00</updated>
   <id>http://manuel-woelker.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Manuel Woelker]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Back in the blogosphere]]></title>
+    <link href="http://manuel-woelker.github.com/blog/2011/12/23/back-in-the-blogosphere/"/>
+    <updated>2011-12-23T17:16:00+01:00</updated>
+    <id>http://manuel-woelker.github.com/blog/2011/12/23/back-in-the-blogosphere</id>
+    <content type="html"><![CDATA[<p>I have decided that it is time to get back to blogging after my two-year hiatus. <a href="http://eclipsesource.com/blogs/author/manuel/">My old blog</a> still has all the old content, but this blog will host all the new stuff I got cooking.</p>
+
+<p>Topics I plan on writing about are my thoughts on software development, my ongoing github projects, and technical issues from my day job. I hope the upcoming holidays will give me a chance to get some projects underway.</p>
+]]></content>
+  </entry>
   
 </feed>
